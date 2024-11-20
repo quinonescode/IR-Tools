@@ -1,0 +1,17 @@
+## A Collection of R Tools for Institutional Research
+
+This repository provides a suite of R functions designed to streamline common tasks in institutional research. The tools are versatile, easy to use, and adaptable to a variety of institutional research questions.
+
+## Key Features: 
+
+1. Data Cleaning and Manupulation: Fuctions to clean, transform, and merge data from various sources. 
+2. Statistical Analysis: Fuctions for conducting statistucal tests (e.g. t-test, ANOVA, regression) 
+3. Report Generation: Functions to generate formatted reports in various formats (e.g. PDF, HTML) 
+
+## Getting Started: 
+
+1. Clone the Repository
+2. Install Required PackagesL Ensure you have R and RStudio installed. Install the required packages listed in the requirements.txt file
+3. Explore the Code: Browse through the R scripts to understand their functionality 
+4. Use the Functions: Source the desired R script and call the functions with appropriate arguments. 
+
